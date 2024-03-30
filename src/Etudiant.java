@@ -4,6 +4,7 @@ public class Etudiant {
     private String niveau;
     private String filiere;
     private int notes;
+    private String tagini;
 
     public Etudiant(String nom, int age, String niveau, String filiere) {
         this.nom = nom;
