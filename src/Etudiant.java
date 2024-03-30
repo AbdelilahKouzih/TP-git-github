@@ -12,7 +12,7 @@ public class Etudiant {
     }
 
     public void afficherInfos() {
-        System.out.println("Nom: " + nom + ", Age: " + age + ", Niveau: " + niveau + ", filière:" + filiere);
+        System.out.println("Nom mamamamamamamammamamamamamamama !: " + nom + ", Age: " + age + ", Niveau: " + niveau + ", filière:" + filiere);
     }
 
     public static void main(String[] args) {
