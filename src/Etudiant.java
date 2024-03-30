@@ -3,7 +3,7 @@ public class Etudiant {
     private int age;
     private String niveau;
     private String filiere;
-
+    private int notes;
     public Etudiant(String nom, int age, String niveau, String filiere) {
         this.nom = nom;
         this.age = age;
